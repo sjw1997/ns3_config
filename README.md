@@ -7,3 +7,5 @@
 ## 2   
 获取ns3资源并配置。
 方法：bash 2
+
+this is a test.
